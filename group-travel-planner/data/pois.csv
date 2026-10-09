@@ -1,0 +1,42 @@
+city,name,category,lat,lon,cost,duration,rating,open,close,description
+Goa,Baga Beach,relaxation,15.5553,73.7517,0,120,4.3,6,22,Lively North Goa beach with shacks and sunsets
+Goa,Fort Aguada,culture,15.4925,73.7731,50,90,4.4,9,18,17th-century Portuguese fort and lighthouse
+Goa,Basilica of Bom Jesus,culture,15.5009,73.9116,0,60,4.6,9,18.5,UNESCO baroque church in Old Goa
+Goa,Dudhsagar Falls,nature,15.3144,74.3143,400,240,4.6,9,17,Four-tier waterfall reached by jeep safari
+Goa,Anjuna Flea Market,shopping,15.5736,73.7416,0,120,4.2,9,18,Hippie-era market for souvenirs and crafts
+Goa,Chapora Fort,nature,15.6050,73.7350,0,60,4.4,8,18,Hilltop fort with panoramic coast views
+Goa,Grande Island Scuba,adventure,15.3989,73.8000,2500,240,4.5,9,16,Boat trip and beginner scuba diving
+Goa,Tito's Lane Night Out,nightlife,15.5559,73.7517,1500,180,4.0,19,24,Clubs and bars on the Baga strip
+Goa,Britto's Seafood Shack,food,15.5610,73.7440,800,90,4.2,11,23,Classic Goan seafood by the beach
+Goa,Palolem Beach,relaxation,15.0100,74.0232,0,150,4.5,6,20,Calm crescent beach in South Goa
+Goa,Spice Plantation Tour,nature,15.3860,74.0070,600,150,4.3,9,17,Guided walk with a traditional Goan lunch
+Goa,Fontainhas Latin Quarter,culture,15.4989,73.8333,0,90,4.5,8,19,Colourful Portuguese-era heritage lanes
+Goa,Panjim Food Walk,food,15.4960,73.8280,700,120,4.4,10,20,Tasting walk through local Goan kitchens
+Goa,Calangute Water Sports,adventure,15.5440,73.7550,1500,120,4.1,9,17,Parasailing and jet skiing
+Jaipur,Amer Fort,culture,26.9855,75.8513,500,150,4.6,8,17.5,Hilltop Rajput fort-palace
+Jaipur,City Palace,culture,26.9258,75.8237,700,120,4.5,9.5,17,Royal residence with museums and courtyards
+Jaipur,Hawa Mahal,culture,26.9239,75.8267,200,60,4.4,9,17,Palace of Winds facade
+Jaipur,Jantar Mantar,culture,26.9247,75.8246,200,60,4.5,9,16.5,18th-century astronomical observatory
+Jaipur,Nahargarh Fort Sunset,nature,26.9372,75.8153,200,120,4.5,10,20,Ridge-top fort with city skyline views
+Jaipur,Johari Bazaar,shopping,26.9190,75.8270,0,120,4.3,10,20,Jewellery and textile bazaar
+Jaipur,Chokhi Dhani Dinner,food,26.7713,75.8456,1200,180,4.2,18,23,Rajasthani village-themed dinner and folk shows
+Jaipur,Lassiwala MI Road,food,26.9156,75.8123,100,30,4.5,8,17,Legendary clay-cup lassi stop
+Jaipur,Jal Mahal Viewpoint,relaxation,26.9534,75.8462,0,40,4.2,6,19,Lake palace viewpoint
+Jaipur,Heritage Cycling Tour,adventure,26.9240,75.8200,1200,150,4.3,6,12,Guided early-morning cycle through the old city
+Jaipur,Tapri Central Rooftop,nightlife,26.9170,75.8080,1200,120,4.2,17,23,Rooftop cafe with music
+Jaipur,Albert Hall Museum,culture,26.9118,75.8190,300,90,4.3,9,17,Indo-Saracenic museum
+Jaipur,Ayurvedic Spa Session,relaxation,26.9100,75.8000,2500,120,4.3,10,19,Traditional massage and wellness session
+Jaipur,Elephant Sanctuary Visit,nature,27.0100,75.8500,1500,120,4.0,9,17,Ethical sanctuary visit near Amer
+Manali,Solang Valley Activities,adventure,32.3166,77.1580,1500,240,4.4,9,17,Zorbing; ropeway and snow activities
+Manali,Rohtang Pass,nature,32.3716,77.2466,1000,300,4.5,7,15,High-altitude pass with snow views
+Manali,Hadimba Temple,culture,32.2480,77.1810,0,60,4.4,8,18,Cedar-forest temple
+Manali,Old Manali Cafes,food,32.2540,77.1760,700,120,4.4,9,22,Riverside cafes and trout lunch
+Manali,Mall Road Stroll,shopping,32.2432,77.1892,0,120,4.1,10,21,Shawls; woollens and street snacks
+Manali,Jogini Waterfall Trek,nature,32.2800,77.1940,100,180,4.5,8,16,Easy forest trek to a waterfall
+Manali,Vashisht Hot Springs,relaxation,32.2620,77.1900,50,90,4.2,7,20,Natural sulphur springs and village
+Manali,Beas River Rafting,adventure,31.9580,77.1090,1800,150,4.4,9,16,Grade II-III rafting at Kullu
+Manali,Paragliding at Solang,adventure,32.3190,77.1590,3000,90,4.5,9,16,Tandem paragliding with a licensed pilot
+Manali,Manu Temple,culture,32.2570,77.1730,0,60,4.1,8,18,Ancient temple above Old Manali
+Manali,Tibetan Monastery,culture,32.2427,77.1869,0,60,4.3,8,18,Peaceful gompa near Mall Road
+Manali,Bonfire and Live Music,nightlife,32.2540,77.1760,800,150,4.2,19,23.5,Evening music and bonfire in Old Manali
+Manali,Naggar Castle,culture,32.1167,77.1750,100,90,4.3,9,18,Himalayan castle-museum with valley views
